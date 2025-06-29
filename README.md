@@ -1,5 +1,20 @@
-# ms-excel-bike-data-project
-📝 Description:
-Cleaned and structured a 1000+ row bike sales dataset in Excel. Used advanced Excel functions, PivotTables, and slicers to build a dynamic dashboard showcasing sales trends across regions and categories with 6+ key metrics.
+# Bike Sales Dashboard in Excel
 
-🔧 Tools & Concepts: Excel, PivotTables, Slicers, Data Cleaning, Charts (Bar, Pie, Line)
+## 📌 Overview
+Built an Excel-based dashboard to track bike sales performance. Cleaned 1000+ rows, created PivotTables and slicers, and visualized sales trends across 6 key metrics.
+
+## 🛠️ Tools & Technologies
+- Microsoft Excel
+
+## 🔍 Key Features
+- Data cleaning: handled blanks and formatting issues
+- Created PivotTables and slicers for region/category analysis
+- Dashboard with bar, pie, and line charts
+
+## 📥 How to Use
+1. Open the Excel file
+2. Interact with slicers to filter dashboard by region or category
+3. Review sales metrics and visualizations
+
+## 👤 Author
+Junaid Kamate
